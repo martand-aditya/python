@@ -1,2 +1,1 @@
-# pyhton
 # tinkering with python
